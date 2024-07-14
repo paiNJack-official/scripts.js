@@ -1,2 +1,3 @@
-# scripts.js
-scripts.js
+function buyAccount(accountName) {
+    alert(`You have purchased the ${accountName} account!`);
+}
